@@ -1,2 +1,2 @@
-# altitude_game
+# Altitude
 Altitude Unity Game
